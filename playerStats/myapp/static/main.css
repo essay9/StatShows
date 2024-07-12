@@ -1,0 +1,21 @@
+body{
+	background-color: white;
+}
+.center{
+	text-align: center;
+}
+table, td, th{
+	border: transparent;
+	background-color: lightgray;
+	border-radius: 25px;
+	height: 10px;
+	width: 200px;
+	margin-top: 20px;
+}
+table{
+	border-collapse: collapse;
+	width: 80%;
+}
+td{
+	text-align: center;
+}
